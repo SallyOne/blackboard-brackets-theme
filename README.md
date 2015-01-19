@@ -4,4 +4,4 @@ Blackboard for Brackets is based on Sublime Text's Blackboard theme.
 
 Author: Jim Gallaher
 
-![screen shot](backboard_screenshot.png)
+![screen shot](blackboard_screenshot.png)
