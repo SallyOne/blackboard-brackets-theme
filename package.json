@@ -1,15 +1,17 @@
 {
-    "title": "Blackboard",
-    "name": "blackboard-brackets-theme",
-    "description": "A dark grey, green, blue, orange, yellow, and white theme based on Blackboard for Sublime",
-    "homepage": "https://github.com/jcgallaher/blackboard-brackets-theme",
-    "version": "1.0.0",
-    "author": "Jim Gallaher <emailjim@jimgallaher.com> (http://jimgallaher.com)",
-    "license": "MIT",
-    "theme": {
-        "file": "theme.less",
-        "dark": true,
-        "addModeClass": true
-    },
-    "keywords": ["theme"]
+"name": "Blackboard",
+"title": "blackboard-brackets-theme",
+"description": "A dark grey, green, blue, orange, yellow, and white theme based on Blackboard for Sublime",
+"homepage": "https://github.com/jcgallaher/blackboard-brackets-theme",
+"version": "1.0.1",
+"author": "Jim Gallaher <emailjim@jimgallaher.com> (http://jimgallaher.com)",
+"license": "MIT",
+"theme": {
+"file": "theme.less",
+"dark": true
+},
+"engines": {
+"brackets": ">=1.0.0"
+},
+"keywords": ["theme", "blackboard", "dark" ]
 }
