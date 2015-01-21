@@ -12,4 +12,6 @@ Blackboard for Brackets is based on Sublime Text's Blackboard theme.
 
 The easiest and quickest way to install the Blackboard theme is to download and install directly through the Brackets extension manager. The alternative is to download this repo by clicking Download ZIP in Github and install the zip file manually through the extension manager.
 
+## Screenshot
+
 ![screen shot](blackboard_screenshot.png)
