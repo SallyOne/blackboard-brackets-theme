@@ -1,9 +1,9 @@
 {
 "name": "jimgallaherblackboard",
-"title": "blackboard",
+"title": "Blackboard",
 "description": "A dark grey, green, blue, orange, yellow, and white theme based on Blackboard for Sublime",
 "homepage": "https://github.com/jcgallaher/blackboard-brackets-theme",
-"version": "1.0.1",
+"version": "1.0.2",
 "author": "Jim Gallaher <emailjim@jimgallaher.com> (http://jimgallaher.com)",
 "license": "MIT",
 "theme": {
